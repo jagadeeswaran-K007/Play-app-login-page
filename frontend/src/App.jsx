@@ -130,7 +130,7 @@ export default function App() {
                 />
                 <span>Remember me</span>
               </label>
-              <a className="hover:underline hover:text-white">
+              <a href="/#" className="hover:underline hover:text-white">
                 Need help?
               </a>
             </div>
@@ -139,7 +139,7 @@ export default function App() {
           <div className="mt-12 text-[#737373] text-sm flex flex-col gap-4">
             <p>
               New to this project?{' '}
-              <a className="text-white hover:underline font-semibold">
+              <a href="/#" className="text-white hover:underline font-semibold">
                 Sign up now.
               </a>
             </p>
